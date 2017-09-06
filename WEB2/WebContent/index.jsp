@@ -36,7 +36,7 @@
 					<c:param name="giasp" value="${p.gia }"/>
 					<c:param name="hinhsp" value="${p.hinh }"/>
 				</c:url>
-				<a href="${varupdate }">Update</a>
+				<a href="${varupdate }">Upda</a>
 			</td>	
 			<td><a href="test.jsp?madm=${p.madm }">Test</a>
 		</tr>
